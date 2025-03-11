@@ -1,16 +1,47 @@
 ## Hi there 👋
 
-<!--
-**IgorCanelo/IgorCanelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Currently Working As:
+I am a **Data Scientist** with experience in building data pipelines, developing metrics for business insights, and optimizing processes through automation.
 
-Here are some ideas to get you started:
+## 🌱 Technical Skills:
+I have expertise in various technologies, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **Data Processing**: PySpark, Airflow
+- **API Development & Integration**: Flask, FastAPI
+- **Cloud Platforms**: AWS
+- **Databases**: SQL & NoSQL
+- **Data Analysis & Visualization**: Power BI, Matplotlib, Seaborn
+- **Versioning**: Git, GitHub
+
+
+<div align="center">
+  <a href="https://github.com/IgorCanelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorCanelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCanelo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+### 🛠 Tech Stack:
+<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachepyspark/apachepyspark-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png">
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Seaborn_logo.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Power_BI_Logo.svg/2048px-Power_BI_Logo.svg.png">
+  
+</div>
+</div>
+
+## 📫 Connect with me:
+<div> 
+  <a href="https://www.linkedin.com/in/igor-canelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
